@@ -1,5 +1,5 @@
 # Great Debate on Open Science 
-**European Geosciences Union General Assembly 2022**
+**@European Geosciences Union General Assembly 2022**
 
 Open Science represents research that is collaborative, transparent, and accessible. This includes providing open access to all scientific outputs, such as publications, data, methods, software, and more. Open Science practices are intended to improve transparency, reproducibility, and dissemination of new knowledge. By enabling greater usability of data and methods, it has the potential to improve the productivity of the research community. Despite best intentions by the scientific community, several barriers often prevent making data, software, and publications fully open and accessible to all. In this Great Debate we invite our panel members and the audience from all geosciences to reflect on successes, limitations, priorities and opportunities for OS across the Geosciences.
 
