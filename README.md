@@ -23,4 +23,18 @@ Convenors:<br/>
 
 **How to participate**
 
-If you are registered for either in-person or virtual participation to EGU, you can join the Debate in Room E1 or virtually. There will be opportunities to ask questions during the Great Debate but you can also <a href="https://forms.office.com/Pages/DesignPage.aspx?lang=en-GB&origin=OfficeDotCom&route=Start#FormId=MH_ksn3NTkql2rGM8aQVG83kN6_RhnhHphTfRWXp-fpUNUJJUExOVTM5WDNLWVJUUk9WUjIwVEFOVC4u">**submit a question at any time through this form**</a>
+If you are registered for either in-person or virtual participation to EGU, you can join the Debate in Room E1 or virtually. There will be opportunities to ask questions during the Great Debate but you can also submit a question before the Debate through this:<br/>
+<a href="https://forms.office.com/Pages/DesignPage.aspx?lang=en-GB&origin=OfficeDotCom&route=Start#FormId=MH_ksn3NTkql2rGM8aQVG83kN6_RhnhHphTfRWXp-fpUNUJJUExOVTM5WDNLWVJUUk9WUjIwVEFOVC4u">**Online form for questions**</a>
+
+~~
+
+***More OS at EGU2022 and beyond***
+
+Session EOS4.3 on <a href="https://meetingorganizer.copernicus.org/EGU22/session/43037">The evolving open-science landscape in geosciences: open data, software, publications and community initiatives</a> - Tue, 24 May, 10:20–11:35 (CEST) Room 1.14<br/>
+Session SC3.13 on <a href="https://meetingorganizer.copernicus.org/EGU22/session/44089">Open science beyond open-access publications: how can we share our code and data?</a> - Thu, 26 May, 13:20–14:50 (CEST) Room -2.85/86<br/> 
+Townhall Meeting on <a href="https://meetingorganizer.copernicus.org/EGU22/session/44568">Open access publishing – transparent and inclusive for all?</a> - Thu, 26 May, 19:00–20:00 (CEST) Room M1<br/>
+Session ESSI3.1 on <a href="https://meetingorganizer.copernicus.org/EGU22/session/42031">Best Practices and Realities of Research Data Repositories: Balancing the needs of Repositories, Researchers and Publishers</a> - Fri, 27 May, 08:30–11:05 (CEST) Room 0.31/32<br/>
+Session ITS3.1/SSS1.2 on <a href="https://meetingorganizer.copernicus.org/EGU22/session/43571">Participatory Citizen Science and Open Science as a new era of environmental observation for society</a> - Fri, 27 May, 08:30–11:05 (CEST) Room N1
+
+Fresh new article on <a href="https://issues.org/opening-up-open-science-gentemann-erdmann-kroeger/">Opening Up to Open Science</a> on Issues on Science and Technology, XXXVIII, 3, Spring 2022
+
