@@ -15,7 +15,7 @@ Panel members:<br/>
 <a href="https://www.imperial.ac.uk/people/c.jackson">Christopher Jackson</a>, Imperial College London + co-funder of <a href="https://eartharxiv.org/">EarthArXiv</a> <br/>
 <a href="https://www.nature.com/commsenv/editors">Heike Langenberg</a>, Chief Editor of <a href="https://www.nature.com/commsenv/">Nature Portfolio's Communications Earth & Environment</a><br/>
 <a href="https://orcid.org/0000-0003-2257-0517">Peter Löwe</a>, IT & eScience Department at WZB Berlin Social Science Center + <a href="https://www.osgeo.org/">Open Source Geospatial Foundation</a> <br/>
-<a href="https://www.deltares.nl/en/experts/albrecht-weerts-2/">Albrecht Weerts</a>, Expert Hydrology, <a href="https://www.deltares.nl/en/">Deltares</a>
+<a href="https://www.deltares.nl/en/experts/albrecht-weerts-2/">Albrecht Weerts</a>, Expert Hydrology, <a href="https://www.deltares.nl/en/">Deltares</a><br/>
 <a href="https://orcid.org/0000-0001-5140-8602">Kirsten Elgers</a>, Library and Information Services, GFZ German Research Centre for Geosciences + Repository manager of GFZ Data Services & project leader for <a href="https://www.fidgeo.de">FID GEO</a>
 
 Convenors:<br/>
