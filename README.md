@@ -20,6 +20,9 @@ Panel members:<br/>
 Convenors:<br/>
 <a href="https://research-information.bris.ac.uk/en/persons/francesca-pianosi">Francesca Pianosi</a>, <a href="https://jifarquharson.github.io">Jamie Farquharson</a>
 
+Co-organisers:<br/>
+Remko Nijzink, Riccardo Rigon, Stan Schymanski 
+
 **How to participate**
 
 BEFORE EGU2022:<br/> 
