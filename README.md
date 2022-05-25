@@ -27,8 +27,11 @@ Remko Nijzink, Riccardo Rigon, Stan Schymanski
 **How to participate**
 
 BEFORE EGU2022:<br/> 
-If you are registered for either in-person or virtual participation to EGU, you can join the Debate in Room E1 or virtually. There will be opportunities to ask questions during the Great Debate but you can also submit a question before the Debate through this:<br/>
-<a href="https://forms.office.com/Pages/DesignPage.aspx?lang=en-GB&origin=OfficeDotCom&route=Start#FormId=MH_ksn3NTkql2rGM8aQVG83kN6_RhnhHphTfRWXp-fpUNUJJUExOVTM5WDNLWVJUUk9WUjIwVEFOVC4u">**Online form for questions**</a>
+If you are registered for either in-person or virtual participation to EGU, you can join the Debate in Room E1 or virtually. There will be opportunities to ask questions during the Great Debate but you can also submit a question before the Debate through this <a href="https://forms.office.com/Pages/DesignPage.aspx?lang=en-GB&origin=OfficeDotCom&route=Start#FormId=MH_ksn3NTkql2rGM8aQVG83kN6_RhnhHphTfRWXp-fpUNUJJUExOVTM5WDNLWVJUUk9WUjIwVEFOVC4u">**Online form for questions**</a>
+
+DURING EGU:<br>
+Please share views and experience of OS by filling in this (very quick!)
+<a href="https://forms.office.com/Pages/DesignPage.aspx?lang=en-GB&origin=OfficeDotCom&route=Start#FormId=MH_ksn3NTkql2rGM8aQVG83kN6_RhnhHphTfRWXp-fpUNUJJUExOVTM5WDNLWVJUUk9WUjIwVEFOVC4u">**Survey of participants**</a>
 
 AFTER EGU2022:<br/>
 Join the conversation on the ***Open Science*** channel on <a href="[https://meetingorganizer.copernicus.org/EGU22/session/43037](https://discourse.pangeo.io)">https://discourse.pangeo.io</a>
