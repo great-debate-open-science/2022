@@ -31,7 +31,7 @@ If you are registered for either in-person or virtual participation to EGU, you 
 
 DURING EGU:<br>
 Please share views and experience of OS by filling in this (very quick!)
-<a href="https://forms.office.com/Pages/DesignPage.aspx?lang=en-GB&origin=OfficeDotCom&route=Start#FormId=MH_ksn3NTkql2rGM8aQVG83kN6_RhnhHphTfRWXp-fpUNUJJUExOVTM5WDNLWVJUUk9WUjIwVEFOVC4u">**Survey of participants**</a>
+<a href="https://forms.office.com/Pages/DesignPage.aspx?lang=en-GB&origin=OfficeDotCom&route=Start#FormId=MH_ksn3NTkql2rGM8aQVG83kN6_RhnhHphTfRWXp-fpUMUtMV1BBOEdTRU05NUQyQjZUVVpYM01HUS4u">**Survey of participants**</a>
 
 AFTER EGU2022:<br/>
 Join the conversation on the ***Open Science*** channel on <a href="[https://meetingorganizer.copernicus.org/EGU22/session/43037](https://discourse.pangeo.io)">https://discourse.pangeo.io</a>
